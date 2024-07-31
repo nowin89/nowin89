@@ -40,4 +40,4 @@ Platforms & Languages
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=histar48&hide=html,css&langs_count=8&layout=compact&theme=dark)](https://github.com/histar48/histar48)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowin89&hide=html,css&langs_count=8&layout=compact&theme=dark)](https://github.com/nowin89/nowin89)
